@@ -1,3 +1,3 @@
 # HSP
 
-https://dashboard.heroku.com/new?template=仓库地址
+https://dashboard.heroku.com/new?template=https://github.com/uniquerjames/Atest.git
